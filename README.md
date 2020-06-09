@@ -4,5 +4,4 @@ We decided to take our data to the movies! This website will showcase cinematic 
 
 [Website](https://nalnajjar.github.io/Movie-Data-Magic/)
 
-[Project plan (Google Docs)](https://docs.google.com/document/d/1pfk1bdshXdZUMV4avyM2F_1vuYAKOpfbbWDTPSkfzHs/edit#heading=h.77k8idxjnymo)
 
